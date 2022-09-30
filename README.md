@@ -19,9 +19,9 @@
     menuIcon.addEventListener('click', handleClickEvent);
 }`
 
- 	---
+---
 
-     	[title](https://www.example.com)
+[link title](https://www.example.com)
 
-         	![alt text](./images/bg.jpg)
+![alt text](./images/bg.jpg)
 
