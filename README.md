@@ -13,11 +13,14 @@
 - Second item
 - Third item
 
-`function initializeEvents() {
+```
+function initializeEvents() {
     var menuIcon = document.querySelector('.menu-icon');
     console.log('menuIcon: ', menuIcon);
     menuIcon.addEventListener('click', handleClickEvent);
-}`
+}
+
+```
 
 ---
 
